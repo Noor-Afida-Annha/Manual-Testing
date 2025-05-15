@@ -1,4 +1,4 @@
-#  Bug Report - SpaGreen SaaS project
+# 🐞 Bug Report - SpaGreen SaaS project
 
 This repository contains detailed bug reports for the **SpaGreen SaaS Projects** platform. The purpose of this documentation is to identify functional and UI/UX issues found through manual testing, and to provide suggestions for improvement where necessary.
 
@@ -16,7 +16,7 @@ This repository contains detailed bug reports for the **SpaGreen SaaS Projects**
 
 ---
 
-## Testing Information
+## 🛠️ Testing Information
 
 - **Browser Used:** Google Chrome (Latest Version)  
 - **Device:** Desktop  
@@ -24,7 +24,7 @@ This repository contains detailed bug reports for the **SpaGreen SaaS Projects**
 
 ---
 
-## Bug Report Format
+## 📄 Bug Report Format
 
 Each bug report includes the following information:
 
@@ -46,9 +46,5 @@ Each bug report includes the following information:
 ```bash
 Bug_Report_SpaGreen/
 │
-├── 📄 Bug_Report_SpaGreen.xlsx        # Excel file containing all bug reports
-├── 📁 Screenshots/                    # Visual references of each bug
-│   ├── bug1.png
-│   ├── bug2.png
-│   └── ...
-└── README.md                          # Project documentation
+├── 📄filename.xlsx        # Excel file containing all bug reports
+└── README.md              # Project documentation
